@@ -1,0 +1,4 @@
+environment: test
+server:
+  port: 7070
+  devName: "Giuseppe_Sorrentino"
